@@ -11,7 +11,8 @@ class Product(Resource):
         return {
             'product': ['Shoes',
                         'Shirts',
-                        'Pullovers']
+                        'Pullovers',
+                        'Jeans']
         }
 
 api.add_resource(Product, '/')

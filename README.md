@@ -13,3 +13,6 @@ It's following [this](https://www.youtube.com/watch?v=Qw9zlE3t8Ko) tutorial from
     ```
     docker-compose up
     ```
+
+## Notes
+This example uses php, which is not my kind of language. I copied the code from Jake, without questioning it. Maybe I will build a pure python or javascript example later on.
